@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6199d7a8f0873e11218d9590",
+    "name": "Pearson HND in Computing",
+    "enrollments": [
+      {
+        "studentId": "6199e04148d58bd7261ec176",
+        "dateStarted": "2020-07-10"
+      },
+      {
+        "studentId": "6199e0785a3320036eb9d966",
+        "dateStarted": "2020-07-11"
+      },
+      {
+        "studentId": "6199e04e3662a8ecdc5fab78",
+        "dateStarted": "2020-07-12"
+      }
+    ]
+  },
+  {
+    "_id": "6199e060e1bbf5d74b26b638",
+    "name": "Pearson HND in Business Management",
+    "enrollments": [
+      {
+        "studentId": "6199e0821e6121a37c9b749c",
+        "dateStarted": "2020-07-10"
+      },
+      {
+        "studentId": "6199e04148d58bd7261ec176",
+        "dateStarted": "2020-07-11"
+      },
+      {
+        "studentId": "6199e09e6e1fa71c98581c17",
+        "dateStarted": "2020-07-12"
+      }
+    ]
+  }
+]

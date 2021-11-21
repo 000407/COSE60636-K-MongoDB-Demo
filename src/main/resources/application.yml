@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: apiit_db
+  profiles:
+    active: test

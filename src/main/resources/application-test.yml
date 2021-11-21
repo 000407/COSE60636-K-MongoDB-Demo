@@ -1,0 +1,9 @@
+app:
+  db:
+    url: mongodb://localhost:${app.db.port}/apiit_db
+    port: 27018
+
+spring:
+  data:
+    mongodb:
+      port: ${app.db.port}

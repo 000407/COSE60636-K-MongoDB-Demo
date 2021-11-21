@@ -1,0 +1,3 @@
+app:
+  db:
+    url: mongodb+srv://apiit_admin:bqpKYMIqsHbEvMVR@cluster0.06hbm.mongodb.net/apiit_db?retryWrites=true&w=majority
